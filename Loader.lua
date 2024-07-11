@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/caIIings/Librarys/main/GSTESTING.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/movingfeds/tokyo/main/GSTESTING.lua'))()
 
 local function is_running()
     return #Library.ended > 0 
